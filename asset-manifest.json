@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9e29005d.chunk.css",
+    "main.js": "/static/js/main.45291d50.chunk.js",
+    "main.js.map": "/static/js/main.45291d50.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.22a824ad.js",
+    "runtime-main.js.map": "/static/js/runtime-main.22a824ad.js.map",
+    "static/js/2.b0f03781.chunk.js": "/static/js/2.b0f03781.chunk.js",
+    "static/js/2.b0f03781.chunk.js.map": "/static/js/2.b0f03781.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9e29005d.chunk.css.map": "/static/css/main.9e29005d.chunk.css.map",
+    "static/js/2.b0f03781.chunk.js.LICENSE.txt": "/static/js/2.b0f03781.chunk.js.LICENSE.txt",
+    "static/media/UpgradeLogo.b3020813.png": "/static/media/UpgradeLogo.b3020813.png",
+    "static/media/UpgradeLogoDark.90c84700.png": "/static/media/UpgradeLogoDark.90c84700.png",
+    "static/media/data-analytics.f0a42a76.svg": "/static/media/data-analytics.f0a42a76.svg",
+    "static/media/svg-1.svg": "/static/media/svg-1.8665aa44.svg",
+    "static/media/svg-2.svg": "/static/media/svg-2.cfdf40eb.svg",
+    "static/media/svg-3.svg": "/static/media/svg-3.934abbf3.svg",
+    "static/media/video2.ca37e581.mp4": "/static/media/video2.ca37e581.mp4",
+    "static/media/web-development.a9306b7c.svg": "/static/media/web-development.a9306b7c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22a824ad.js",
+    "static/js/2.b0f03781.chunk.js",
+    "static/css/main.9e29005d.chunk.css",
+    "static/js/main.45291d50.chunk.js"
+  ]
+}
